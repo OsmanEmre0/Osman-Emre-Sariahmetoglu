@@ -172,7 +172,6 @@ section{
     border-radius: .8rem;
     font-size: 1.8rem;
     font-weight: 600;
-    letter-spacing: .1rem;
     color: var(--bg-color);
     z-index: 1;
     overflow: hidden;
